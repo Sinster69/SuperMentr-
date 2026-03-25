@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  height: 100vh;
+  text-align: center;
+  padding-top: 100px;
+  transition: 0.3s;
+}
+
+.display h2 {
+  font-size: 60px;
+  margin: 0;
+}
+
+.display p {
+  font-size: 24px;
+}
+
+.buttons button {
+  font-size: 30px;
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
